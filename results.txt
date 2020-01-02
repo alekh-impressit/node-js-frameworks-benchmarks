@@ -1,1 +1,12 @@
 express
+Requests per second:    3802.89 [#/sec] (mean)
+node
+Requests per second:    3319.15 [#/sec] (mean)
+restify
+Requests per second:    3416.96 [#/sec] (mean)
+fastify
+Requests per second:    7748.51 [#/sec] (mean)
+koa
+Requests per second:    4449.90 [#/sec] (mean)
+total.js
+Requests per second:    4288.33 [#/sec] (mean)
